@@ -4,7 +4,7 @@
 We make available the PoPreRo dataset, the first dataset for Popularity Prediction of Romanian posts collected from Reddit together with the four baselines (two transformer-based and two shallow methods).
 
 
-|            |       Unpopular |      Popular |    Total   | 
+|            |       Unpopular | | |     Popular |    Total   | 
 |------------|-----------|-----------|---------|---------|--------|---------|
 | Set        | #posts    | #tokens   | #posts  | #tokens | #posts | #tokens |
 | Train      | 12,053    | 398,219   | 11,592  | 560,580 | 23,645 | 958,799 |
