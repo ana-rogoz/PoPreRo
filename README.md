@@ -19,7 +19,7 @@ The dataset and code are released under: [Creative Commons Attribution Non Comme
 ## Citation <a name = "citation"></a>
 Please cite our work if you use any material released in this repository.
 ```
-@inproceedings{Croitoru-IJCV-2024,
+@inproceedings{Rogoz-ICPR-2024,
   author    = {Rogoz, Ana-Cristina and Nechita, Maria Ilinca and Ionescu, Radu Tudor},
   title     = "{PoPreRo: A New Dataset for Popularity Prediction of Romanian Reddit Posts}",
   booktitle = {Proceedings of the International Conference on Pattern Recognition},
